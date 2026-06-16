@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-08)
+## Unreleased (2026-06-16)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`a426d0f`](https://github.com/stdlib-js/stdlib/commit/a426d0f0d857c3955d433bdfac16e82ece88c09c) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`8620184`](https://github.com/stdlib-js/stdlib/commit/8620184ee6817de3a8014563248653c7f8d578e4) - **bench:** use string interpolation in `stats/base/ndarray/smskrange` [(#10344)](https://github.com/stdlib-js/stdlib/pull/10344) _(by ANKIT SINGH YADAV)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   ANKIT SINGH YADAV
+-   Athan Reines
 
 </section>
 
